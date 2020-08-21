@@ -1,1 +1,1 @@
-This command is to use the weapons included in the hot drops.
+This command is to use the weapons included in the red drops.
